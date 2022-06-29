@@ -62,11 +62,11 @@ footer-text: Copyright (c) 2022 sam
 disqus: # fromendworld
 
 # Gitalk
-#gitalk:
-#  clientID: bd65d5c0df878155b7fa
-#  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-#  repo: lemonchann.github.io
-#  owner: lemonchann
+gitalk:
+  clientID: d2e35ad1ddf9e5d5eb91
+  clientSecret: fd99e5df7991f13f5a87a7ec3f7317d0126b4294
+  repo: sampotter-8.github.io
+  owner: sampotter
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
